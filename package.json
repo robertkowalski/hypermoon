@@ -1,0 +1,14 @@
+{
+  "name": "hypermoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Kowalski <rok@kowalski.gd>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
